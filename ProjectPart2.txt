@@ -1,0 +1,6 @@
+1st- Use Krusted-Wallace to calculate Hs (Project.py)
+2nd- Split into Train and Test (split.py)
+3rd- build the model and 
+	See the values of Spearman(depicting the accuracy of the model) 
+	for each percentage of Hs removed(algorithms)
+4rth- Build XGBoost GridSearch and Model Training(XGBoost)

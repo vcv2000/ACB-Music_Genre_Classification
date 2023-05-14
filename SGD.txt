@@ -1,0 +1,4 @@
+{'penalty': 'elasticnet', 'max_iter': 1000, 'learning_rate': 'invscaling', 'alpha': 0.0003}:
+Accuracy Score-0.46
+F1 Score-0.4048994796610281
+Precision Score-0.49220720738625073

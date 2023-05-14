@@ -1,0 +1,11 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_penalty,param_max_iter,param_learning_rate,param_alpha,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+0.11366181373596192,0.010235525686309825,0.0005104541778564453,0.0010209083557128906,elasticnet,1000,invscaling,0.0003,"{'penalty': 'elasticnet', 'max_iter': 1000, 'learning_rate': 'invscaling', 'alpha': 0.0003}",,,,,,,,1
+0.041733312606811526,0.005563850156457606,0.0014129638671875,0.002825927734375,elasticnet,1500,constant,0.0003,"{'penalty': 'elasticnet', 'max_iter': 1500, 'learning_rate': 'constant', 'alpha': 0.0003}",,,,,,,,1
+0.8434858322143555,0.14670820971986098,0.0,0.0,l1,1500,adaptive,0.0001,"{'penalty': 'l1', 'max_iter': 1500, 'learning_rate': 'adaptive', 'alpha': 0.0001}",,,,,,,,1
+0.0493194580078125,0.0033549583256316353,0.0,0.0,l1,1500,constant,0.0005,"{'penalty': 'l1', 'max_iter': 1500, 'learning_rate': 'constant', 'alpha': 0.0005}",,,,,,,,1
+0.09641528129577637,0.001574526946484079,0.000203704833984375,0.00040740966796875,elasticnet,2000,invscaling,0.0002,"{'penalty': 'elasticnet', 'max_iter': 2000, 'learning_rate': 'invscaling', 'alpha': 0.0002}",,,,,,,,1
+0.050911998748779295,0.00846070636200948,0.00031905174255371095,0.0006381034851074219,,2000,optimal,0.0003,"{'penalty': None, 'max_iter': 2000, 'learning_rate': 'optimal', 'alpha': 0.0003}",,,,,,,,1
+0.7849404335021972,0.24714719115329695,0.0,0.0,elasticnet,1500,adaptive,0.0001,"{'penalty': 'elasticnet', 'max_iter': 1500, 'learning_rate': 'adaptive', 'alpha': 0.0001}",,,,,,,,1
+0.04696178436279297,0.003763143377214201,0.0,0.0,l1,1000,constant,0.0005,"{'penalty': 'l1', 'max_iter': 1000, 'learning_rate': 'constant', 'alpha': 0.0005}",,,,,,,,1
+0.1476581573486328,0.009354959347577307,0.001711559295654297,0.0034231185913085943,elasticnet,1000,optimal,0.0005,"{'penalty': 'elasticnet', 'max_iter': 1000, 'learning_rate': 'optimal', 'alpha': 0.0005}",,,,,,,,1
+0.14926109313964844,0.013918039297038873,0.00024237632751464844,0.00048475265502929683,elasticnet,1500,optimal,0.0003,"{'penalty': 'elasticnet', 'max_iter': 1500, 'learning_rate': 'optimal', 'alpha': 0.0003}",,,,,,,,1

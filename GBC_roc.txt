@@ -1,0 +1,4 @@
+{'subsample': 1.0, 'n_estimators': 200, 'min_samples_split': 0.5, 'learning_rate': 0.5}:
+Accuracy Score-0.675
+F1 Score-0.6788245407542035
+Precision Score-0.6768898100037889

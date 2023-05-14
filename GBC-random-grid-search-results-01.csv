@@ -1,0 +1,11 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_subsample,param_n_estimators,param_min_samples_split,param_learning_rate,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+55.50034508705139,3.8674941189835215,0.0005635261535644531,0.0005197180421587024,1.0,200,0.5,0.5,"{'subsample': 1.0, 'n_estimators': 200, 'min_samples_split': 0.5, 'learning_rate': 0.5}",,,,,,,,1
+27.367666482925415,0.3887950001028935,0.0,0.0,0.9,100,2,0.5,"{'subsample': 0.9, 'n_estimators': 100, 'min_samples_split': 2, 'learning_rate': 0.5}",,,,,,,,1
+35.182097816467284,2.8658713753054816,0.00027194023132324217,0.0005438804626464843,0.9,100,5,1.0,"{'subsample': 0.9, 'n_estimators': 100, 'min_samples_split': 5, 'learning_rate': 1.0}",,,,,,,,1
+28.81442012786865,3.837139985905544,0.0,0.0,0.9,100,2,1.0,"{'subsample': 0.9, 'n_estimators': 100, 'min_samples_split': 2, 'learning_rate': 1.0}",,,,,,,,1
+56.903723907470706,4.596809510011458,0.0,0.0,1.0,200,0.5,0.1,"{'subsample': 1.0, 'n_estimators': 200, 'min_samples_split': 0.5, 'learning_rate': 0.1}",,,,,,,,1
+48.14115252494812,4.639365567785247,0.00021038055419921874,0.0004207611083984375,1.0,150,0.7,1.0,"{'subsample': 1.0, 'n_estimators': 150, 'min_samples_split': 0.7, 'learning_rate': 1.0}",,,,,,,,1
+14.880221462249756,4.31497716042719,0.0,0.0,0.7,50,5,0.1,"{'subsample': 0.7, 'n_estimators': 50, 'min_samples_split': 5, 'learning_rate': 0.1}",,,,,,,,1
+0.9286382675170899,1.2880839358018166,0.0,0.0,0.7,50,0.7,0.5,"{'subsample': 0.7, 'n_estimators': 50, 'min_samples_split': 0.7, 'learning_rate': 0.5}",,,,,,,,1
+9.739291381835937,0.23943774243082686,0.00021071434020996093,0.00042142868041992185,1.0,50,0.7,0.1,"{'subsample': 1.0, 'n_estimators': 50, 'min_samples_split': 0.7, 'learning_rate': 0.1}",,,,,,,,1
+28.381522607803344,1.2954457106866737,0.00010671615600585938,0.00021343231201171876,1.0,100,5,0.1,"{'subsample': 1.0, 'n_estimators': 100, 'min_samples_split': 5, 'learning_rate': 0.1}",,,,,,,,1

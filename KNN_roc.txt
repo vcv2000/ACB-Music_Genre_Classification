@@ -1,0 +1,4 @@
+{'weights': 'distance', 'n_neighbors': 3, 'leaf_size': 20, 'algorithm': 'brute'}:
+Accuracy Score-0.33
+F1 Score-0.3377030001713126
+Precision Score-0.33529249545267853

@@ -1,0 +1,11 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_min_samples_split,param_min_impurity_decrease,param_max_features,param_max_depth,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+0.014298343658447265,0.003573243625862904,0.0,0.0,3,3,sqrt,1,"{'min_samples_split': 3, 'min_impurity_decrease': 3, 'max_features': 'sqrt', 'max_depth': 1}",,,,,,,,1
+0.006091022491455078,0.003812090879171163,0.002710247039794922,0.0033235103106129074,5,5,sqrt,1,"{'min_samples_split': 5, 'min_impurity_decrease': 5, 'max_features': 'sqrt', 'max_depth': 1}",,,,,,,,1
+0.007559776306152344,0.007015256279777448,0.0,0.0,5,1,auto,2,"{'min_samples_split': 5, 'min_impurity_decrease': 1, 'max_features': 'auto', 'max_depth': 2}",,,,,,,,1
+0.006261253356933593,0.00766843793738779,0.0031306266784667967,0.0062612533569335925,2,1,auto,1,"{'min_samples_split': 2, 'min_impurity_decrease': 1, 'max_features': 'auto', 'max_depth': 1}",,,,,,,,1
+0.010052108764648437,0.007681804371533525,0.0030083656311035156,0.003684480377964752,5,1,auto,4,"{'min_samples_split': 5, 'min_impurity_decrease': 1, 'max_features': 'auto', 'max_depth': 4}",,,,,,,,1
+0.00642552375793457,0.0034730409412161603,0.0018869876861572266,0.0037739753723144533,2,1,log2,6,"{'min_samples_split': 2, 'min_impurity_decrease': 1, 'max_features': 'log2', 'max_depth': 6}",,,,,,,,1
+0.005339336395263672,0.0057176568968883845,0.0031306266784667967,0.006261253356933593,2,0,sqrt,4,"{'min_samples_split': 2, 'min_impurity_decrease': 0, 'max_features': 'sqrt', 'max_depth': 4}",,,,,,,,1
+0.012507247924804687,0.006253647231930928,0.0,0.0,5,0,sqrt,6,"{'min_samples_split': 5, 'min_impurity_decrease': 0, 'max_features': 'sqrt', 'max_depth': 6}",,,,,,,,1
+0.013047885894775391,0.006553480608741372,0.003125905990600586,0.006251811981201172,5,3,auto,2,"{'min_samples_split': 5, 'min_impurity_decrease': 3, 'max_features': 'auto', 'max_depth': 2}",,,,,,,,1
+0.009802579879760742,0.008067081666092477,0.0034981250762939455,0.005628746586917289,5,3,auto,6,"{'min_samples_split': 5, 'min_impurity_decrease': 3, 'max_features': 'auto', 'max_depth': 6}",,,,,,,,1

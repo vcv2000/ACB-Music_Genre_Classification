@@ -1,0 +1,4 @@
+{'n_estimators': 50, 'min_samples_split': 5, 'max_features': 1, 'max_depth': 2}:
+Accuracy Score-0.205
+F1 Score-0.19308805319612588
+Precision Score-0.3692064088428616

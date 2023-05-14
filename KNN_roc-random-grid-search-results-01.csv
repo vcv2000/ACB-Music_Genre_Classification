@@ -1,0 +1,11 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_weights,param_n_neighbors,param_leaf_size,param_algorithm,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+0.013281488418579101,0.0050563084057680206,0.0,0.0,distance,3,20,brute,"{'weights': 'distance', 'n_neighbors': 3, 'leaf_size': 20, 'algorithm': 'brute'}",,,,,,,,1
+0.010696315765380859,0.00649952927337502,0.0035848140716552733,0.0060964574392546045,uniform,3,100,kd_tree,"{'weights': 'uniform', 'n_neighbors': 3, 'leaf_size': 100, 'algorithm': 'kd_tree'}",,,,,,,,1
+0.004796838760375977,0.00132525486171736,0.0,0.0,distance,2,10,auto,"{'weights': 'distance', 'n_neighbors': 2, 'leaf_size': 10, 'algorithm': 'auto'}",,,,,,,,1
+0.006960439682006836,0.007204368520513028,0.003128528594970703,0.006257057189941406,distance,3,20,ball_tree,"{'weights': 'distance', 'n_neighbors': 3, 'leaf_size': 20, 'algorithm': 'ball_tree'}",,,,,,,,1
+0.008674430847167968,0.0074278054296419375,0.004087591171264648,0.005894512744525356,distance,2,30,auto,"{'weights': 'distance', 'n_neighbors': 2, 'leaf_size': 30, 'algorithm': 'auto'}",,,,,,,,1
+0.0036663055419921876,0.005133995797845048,0.0031287670135498047,0.006257534027099609,distance,2,50,ball_tree,"{'weights': 'distance', 'n_neighbors': 2, 'leaf_size': 50, 'algorithm': 'ball_tree'}",,,,,,,,1
+0.007149457931518555,0.008167442024687223,0.008941030502319336,0.007311628125061509,distance,2,100,ball_tree,"{'weights': 'distance', 'n_neighbors': 2, 'leaf_size': 100, 'algorithm': 'ball_tree'}",,,,,,,,1
+0.008614778518676758,0.0070364807038485805,0.0,0.0,uniform,1,50,brute,"{'weights': 'uniform', 'n_neighbors': 1, 'leaf_size': 50, 'algorithm': 'brute'}",,,,,,,,1
+0.012746143341064452,0.0034464329908703547,0.0019464969635009765,0.0038929939270019535,distance,1,20,auto,"{'weights': 'distance', 'n_neighbors': 1, 'leaf_size': 20, 'algorithm': 'auto'}",,,,,,,,1
+0.007605552673339844,0.006485266540896502,0.0034730911254882814,0.006122226710675772,uniform,2,50,auto,"{'weights': 'uniform', 'n_neighbors': 2, 'leaf_size': 50, 'algorithm': 'auto'}",,,,,,,,1

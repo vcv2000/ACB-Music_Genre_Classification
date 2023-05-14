@@ -1,0 +1,3 @@
+Accuracy Score-0.485
+F1 Score-0.4849483408511541
+Precision Score-0.5132919605907221
